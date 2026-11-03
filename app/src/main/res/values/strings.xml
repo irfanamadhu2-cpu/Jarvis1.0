@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">Lets Jarvis see your screen and tap, swipe and type for you when you give it a task. It always asks your approval before sending messages, paying, calling or deleting.</string>
+</resources>
